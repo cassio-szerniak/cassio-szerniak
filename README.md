@@ -5,6 +5,7 @@
 - 📖 Studying Systems Analysis and Development at Univali
 - 🚀 HTML5 + CSS3
 - 📖 Studying PHP
+- 📖 Studying english
 
 <div>
   <a href="https://github.com/cassio-szerniak">
