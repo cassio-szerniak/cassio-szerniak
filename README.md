@@ -1,6 +1,4 @@
-### Hi 👋
-
-# Welcome!
+## Hi, Welcome!
 
 - 📝 I’m currently and ever learning
 - ⏱ I’m looking for help with have more time 😅
