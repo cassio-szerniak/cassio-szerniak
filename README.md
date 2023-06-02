@@ -2,7 +2,7 @@
 
 - 🚀 Developer
 - 🛠 Technologies (beginner): Laravel | Angular 2+ | PHP | MySql | Javascript | HTML5 | CSS3 | Boostrap | Linux | Git | GitLab | Jira | GitHub Desktop | Postman
-- 📝 I’m currently and ever learning
+- 📝 I’m ever learning
 - ⏱ I would like know how to have more time 😅
 - 📖 Studying Systems Analysis and Development at Univali
 - 📖 Studying PHP, Python, framewors and others tecnologies
